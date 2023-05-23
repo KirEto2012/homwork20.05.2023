@@ -12,4 +12,4 @@ youtube.com работает на защищенном протоколе так
 ![3_after.jpg](204.png)
 
 ## 4_proto.jpg
-![4_proto.jpg]()
+![4_proto.jpg](207.png)
